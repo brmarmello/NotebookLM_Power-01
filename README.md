@@ -35,14 +35,11 @@ Uma das principais dificuldades foi separar o estoicismo clássico das interpret
 
 ## 5. Entrega final
 
-A entrega final reúne:
-- resumos estruturados;
-- glossário dos principais conceitos;
-- prompts reutilizáveis;
-- plano de estudo progressivo.
-
-
-
+A entrega final reúne: In Construction...
+- [Resumos Estruturados](https://drive.google.com/file/d/12vwc9a3Z-dUoNRucj3v-V-EdPaLOvMF9/view?usp=drive_link)
+- [Glossário dos principais conceitos](https://drive.google.com/file/d/1tCEDTbr-Pv4SlfXjJSZmxRzNB0DdlvaO/view?usp=sharing)
+- [Prompts reutilizáveis](https://drive.google.com/file/d/1gekZa1FmZ2k1J12YJb6_sIuC2eJaP0uj/view?usp=sharing)
+- [Plano de Estudo Progressivo | Arquitetura da Alma Histórica](https://drive.google.com/file/d/1wo9voru69GgegSSnJ90kRSxlbB4ztcyg/view?usp=sharing)
 
 ---
 

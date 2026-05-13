@@ -1,5 +1,46 @@
-# NotebookLM_Power-01
-In Construction...
+# In Construction...
+
+# NotebookLM — Estudo sobre o Estoicismo
+
+## 1. Contexto e objetivos
+
+Este caderno temático foi criado para estudar o Estoicismo desde o nível inicial até um nível mais aprofundado, considerando sua história, seus principais filósofos, sua ética, sua metafísica, sua relação com saúde mental, desenvolvimento pessoal e filosofia aplicada.
+
+## 2. Fontes selecionadas
+
+1. O Manual de Epicteto — Aldo Dinucci e Alfredo Julien.
+2. O Encheirídion de Epicteto — edição bilíngue.
+3. Carta a Lucílio IX — Sêneca.
+4. Epístolas morais a Lucílio — Sêneca.
+5. Cinco diatribes de Epicteto sobre razão e loucura.
+6. Epicteto: cinco diatribes sobre progresso e arte de viver.
+7. Amizade e coragem em Epicteto.
+8. Projeto Diatribes de Epicteto — ANPOF.
+9. Traduções de Epicteto, Musônio Rufo e autores relacionados — UFS.
+10. Ensaios sobre Filosofia Antiga e Estoicismo — ANPOF.
+11. Meditações — Marco Aurélio.
+12. Fontes introdutórias: Brasil Escola, Toda Matéria e Casa do Saber.
+
+## 3. Engenharia de prompts
+
+Foram criados prompts para resumo, glossário, linha do tempo, comparação entre autores, estudo de Epicteto, Sêneca, Marco Aurélio, saúde mental, desenvolvimento pessoal e metafísica estoica.
+
+## 4. Dificuldades encontradas
+
+Uma das principais dificuldades foi separar o estoicismo clássico das interpretações modernas simplificadas. Também foi necessário selecionar fontes confiáveis em português brasileiro, evitando materiais sem autoria clara ou cópias não autorizadas.
+
+## 5. Entrega final
+
+A entrega final reúne:
+- resumos estruturados;
+- glossário dos principais conceitos;
+- prompts reutilizáveis;
+- plano de estudo progressivo.
+
+
+
+
+---
 
 Este projeto de ensino explora o uso da Inteligência Artificial como uma verdadeira ferramenta de aprendizagem ativa. Este projeto prático avalia:
 - pensamento crítico;

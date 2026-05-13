@@ -2,6 +2,9 @@
 
 # NotebookLM — Estudo sobre o Estoicismo
 
+# Link público do caderno de estudo
+https://notebooklm.google.com/notebook/2b3e2086-0c06-4fb9-ba22-4733578a7259
+
 ## 1. Contexto e objetivos
 
 Este caderno temático foi criado para estudar o Estoicismo desde o nível inicial até um nível mais aprofundado, considerando sua história, seus principais filósofos, sua ética, sua metafísica, sua relação com saúde mental, desenvolvimento pessoal e filosofia aplicada.

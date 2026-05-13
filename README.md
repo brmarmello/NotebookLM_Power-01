@@ -35,7 +35,7 @@ Uma das principais dificuldades foi separar o estoicismo clássico das interpret
 
 ## 5. Entrega final
 
-# Atalhos de Teclado (Para abrir os links em outra aba/gui): Como o GitHub não permite forçar a nova aba via código para links internos, a solução é usar os atalhos: Ctrl + Clique (Windows/Linux); ou Cmd + Clique (Mac); ou ainda Clique com o botão do meio do mouse (Scroller) em cima do link. Isto apenas facilitra a usabilidade.
+### Atalhos de Teclado (Para abrir os links em outra aba/gui): Como o GitHub não permite forçar a nova aba via código para links internos, a solução é usar os atalhos: Ctrl + Clique (Windows/Linux); ou Cmd + Clique (Mac); ou ainda Clique com o botão do meio do mouse (Scroller) em cima do link. Isto apenas facilitra a usabilidade.
 
 A entrega final reúne: In Construction...
 - <a href="https://github.com/brmarmello/NotebookLM_Power-01/blob/5e3e29dbb9432b1db233956b0523c6ea82d6c325/NotebookLM%20Caderno%20de%20Estudo%20sobre%20o%20Estoicismo.pdf" target="_blank" rel="noopener noreferrer">Resumos Estruturados</a>

@@ -36,10 +36,10 @@ Uma das principais dificuldades foi separar o estoicismo clássico das interpret
 ## 5. Entrega final
 
 A entrega final reúne: In Construction...
-- <a href="https://drive.google.com/file/d/12vwc9a3Z-dUoNRucj3v-V-EdPaLOvMF9/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Resumos Estruturados</a>
-- <a href="https://drive.google.com/file/d/1tCEDTbr-Pv4SlfXjJSZmxRzNB0DdlvaO/view?usp=sharing" target="_blank" rel="noopener noreferrer">Glossário dos principais conceitos</a>
-- <a href="https://drive.google.com/file/d/1gekZa1FmZ2k1J12YJb6_sIuC2eJaP0uj/view?usp=sharing" target="_blank" rel="noopener noreferrer">Prompts reutilizáveis</a>
-- <a href="https://drive.google.com/file/d/1wo9voru69GgegSSnJ90kRSxlbB4ztcyg/view?usp=sharing" target="_blank" rel="noopener noreferrer">Plano de Estudo Progressivo | Arquitetura da Alma Histórica</a>
+- <a href="https://github.com/brmarmello/NotebookLM_Power-01/blob/5e3e29dbb9432b1db233956b0523c6ea82d6c325/NotebookLM%20Caderno%20de%20Estudo%20sobre%20o%20Estoicismo.pdf" target="_blank" rel="noopener noreferrer">Resumos Estruturados</a>
+- <a href="https://github.com/brmarmello/NotebookLM_Power-01/blob/5e3e29dbb9432b1db233956b0523c6ea82d6c325/NotebookLM%20Gloss%C3%A1rio%20dos%20principais%20conceitos.pdf" target="_blank" rel="noopener noreferrer">Glossário dos principais conceitos</a>
+- <a href="https://github.com/brmarmello/NotebookLM_Power-01/blob/5e3e29dbb9432b1db233956b0523c6ea82d6c325/Plano%20de%20Estudo%20Progressivo%20-%20Arquitetura%20da%20Alma%20Hist%C3%B3rica.pdf" target="_blank" rel="noopener noreferrer">Prompts reutilizáveis</a>
+- <a href="https://github.com/brmarmello/NotebookLM_Power-01/blob/5e3e29dbb9432b1db233956b0523c6ea82d6c325/Plano%20de%20Estudo%20Progressivo%20-%20Arquitetura%20da%20Alma%20Hist%C3%B3rica.pdf" target="_blank" rel="noopener noreferrer">Plano de Estudo Progressivo | Arquitetura da Alma Histórica</a>
 
 ---
 

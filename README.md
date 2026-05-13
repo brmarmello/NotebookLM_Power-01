@@ -1,7 +1,7 @@
 # In Construction...
 
 # NotebookLM — Estudo sobre o Estoicismo
-![Estoisismo](https://drive.google.com/file/d/1CjkJiVMpK0DB0hpLbSM-J8J248usMAHg/view?usp=sharing)
+![Estoisismo](https://raw.githubusercontent.com/brmarmello/NotebookLM_Power-01/refs/heads/main/682f96ae506502987f854579_epicteto-estoicismo_400px.webp)
 
 # Link público do caderno de estudo
 https://notebooklm.google.com/notebook/2b3e2086-0c06-4fb9-ba22-4733578a7259

@@ -1,6 +1,7 @@
 # In Construction...
 
 # NotebookLM — Estudo sobre o Estoicismo
+![Estoisismo](https://drive.google.com/file/d/1CjkJiVMpK0DB0hpLbSM-J8J248usMAHg/view?usp=sharing)
 
 # Link público do caderno de estudo
 https://notebooklm.google.com/notebook/2b3e2086-0c06-4fb9-ba22-4733578a7259

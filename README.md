@@ -43,11 +43,11 @@ A entrega final reúne: In Construction...
 - <a href="https://drive.google.com/file/d/1gekZa1FmZ2k1J12YJb6_sIuC2eJaP0uj/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Prompts reutilizáveis</a>
 - <a href="https://drive.google.com/file/d/1UVdeMBkT2qPyhFGBtE4CPXOu6P5xUZK-/view?usp=sharing" target="_blank" rel="noopener noreferrer">Plano de Estudo Progressivo | A Arte de Viver</a>
 
-## 6. Extras 👀
+## 6. Extras 👀  ........ In Construction ........
 
 ### Aproveitando o hiperfoco, resolvi criar um roteiro prático de estudo seguindo uma lógica crescente e ordenada para escalar o conhecimento sem se perder em épocas e conceitos. Se quiser seguir o "Micolearn" pequeno curso que preparei é só ir clicando em cada link abaixo na sequência desta sessão. ams apenas com intuito de aprender sobre o Estoicismo, área da Filosofia escolhida por mim e abordada como tema. Para estudo do NotebookLM use o material da sessão 5 e recrie o seu conteúdo autoral.
 
-## BLOCO I: xxxxxxxxxx In Construction...
+## 6.1. BLOCO I: O MANUAL E A ADAGA DA ALMA
 ARQUIVOS FONTE DO BLOCO: "O Manual de Epicteto" e "Carta a Lucílio IX"
 
 ![Estoisismo](https://raw.githubusercontent.com/brmarmello/NotebookLM_Power-01/refs/heads/main/O%20Despertar%20Estoico.png)
@@ -55,6 +55,15 @@ ARQUIVOS FONTE DO BLOCO: "O Manual de Epicteto" e "Carta a Lucílio IX"
 - <a href="https://drive.google.com/file/d/1-LqMcNlN7hKGijIl1-piL2m1ZLgIbbhH/view?usp=sharing" target="_blank" rel="noopener noreferrer">Plano de Estudo Progressivo do Bloco | Manual do Estoico Prático</a>
 - <a href="https://drive.google.com/file/d/1cAWCgR2dHCUN6Arp8DjiGEkChg6a7bWP/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo do Bloco | A Forja do Guerreiro</a>
 - <a href="https://drive.google.com/file/d/1cAWCgR2dHCUN6Arp8DjiGEkChg6a7bWP/view?usp=sharing" target="_blank" rel="noopener noreferrer">PodCast do Bloco | A adaga mental contra o caos</a>
+
+## 6.2. BLOCO II: XXXXXXXXXXXXXXXXXXXXXXXXXXXXX  ........ In Construction ........
+ARQUIVOS FONTE DO BLOCO: "xxxxxxxxxxxxxxxxxxx" e "xxxxxxxxxxxxxxxxxxx"
+
+![Estoisismo](https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.png)
+👆👆👆 Imagem gerada neste projeto na funcionalidade "Infográficos" na configuração paisagem + Português (Brasil) + Seleção Automática + Padrão + PROMPT: "Monte um plano de estudos de 30 dias sobre estoicismo usando apenas as fontes carregadas. Divida por dia, tema, leitura recomendada, pergunta de reflexão e exercício prático.". 
+- <a href="https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.com" target="_blank" rel="noopener noreferrer">Plano de Estudo Progressivo do Bloco | xxxxxxxxxxxxxxxxxxxxxxxx</a>
+- <a href="https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.com" target="_blank" rel="noopener noreferrer">Vídeo do Bloco | xxxxxxxxxxxxxxxxxxxxxxxx</a>
+- <a href="https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.com" target="_blank" rel="noopener noreferrer">PodCast do Bloco | xxxxxxxxxxxxxxxxxxxxxxxx</a>
 
 ---
 

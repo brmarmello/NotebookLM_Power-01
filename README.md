@@ -50,7 +50,7 @@ A entrega final reúne: In Construction...
 ## BLOCO I: xxxxxxxxxx In Construction...
 ARQUIVOS FONTE DO BLOCO: "O Manual de Epicteto" e "Carta a Lucílio IX"
 
-![Estoisismo](https://drive.google.com/file/d/1U01xCraAjYQA48oed0QnHIVZ_SGPvCgl/view?usp=sharing)
+![Estoisismo](https://raw.githubusercontent.com/brmarmello/NotebookLM_Power-01/refs/heads/main/O%20Despertar%20Estoico.png)
 👆👆👆 Imagem gerada neste projeto na funcionalidade "Infográficos" na configuração paisagem + Português (Brasil) + Seleção Automática + Padrão + PROMPT: "Monte um plano de estudos de 30 dias sobre estoicismo usando apenas as fontes carregadas. Divida por dia, tema, leitura recomendada, pergunta de reflexão e exercício prático.". 
 - <a href="https://drive.google.com/file/d/1-LqMcNlN7hKGijIl1-piL2m1ZLgIbbhH/view?usp=sharing" target="_blank" rel="noopener noreferrer">Plano de Estudo Progressivo do Bloco | Manual do Estoico Prático</a>
 - <a href="https://drive.google.com/file/d/1cAWCgR2dHCUN6Arp8DjiGEkChg6a7bWP/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo do Bloco | A Forja do Guerreiro</a>

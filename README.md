@@ -47,7 +47,7 @@ A entrega final reúne: In Construction...
 ---
 
 
-## 6. Extras 👀  ........ In Construction ........
+## 6. Extras 👀
 
 ### Aproveitando o hiperfoco, resolvi criar um roteiro prático de estudo seguindo uma lógica crescente e ordenada para escalar o conhecimento sem se perder em épocas e conceitos. Se quiser seguir o "Micolearn" pequeno curso que preparei é só ir clicando em cada link abaixo na sequência desta sessão. ams apenas com intuito de aprender sobre o Estoicismo, área da Filosofia escolhida por mim e abordada como tema. Para estudo do NotebookLM use o material da sessão 5 e recrie o seu conteúdo autoral.
 
@@ -70,6 +70,16 @@ ARQUIVOS FONTE DO BLOCO: "Ensaios sobre Filosofia Antiga e Estoicismo" e "Epíst
 - <a href="https://drive.google.com/file/d/1uR93FQFsgg1fLl90FR40G9Vdtzl3TCaK/view?usp=sharing" target="_blank" rel="noopener noreferrer">Plano de Estudo Progressivo do Bloco | O Caminho do Procopton</a>
 - <a href="https://drive.google.com/file/d/1dujHuQWak8KJnnwH3CZwpJIBGAEb1YyP/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo do Bloco | A Jornada Estoica - Parte2</a>
 - <a href="https://drive.google.com/file/d/1HaDbM0dD4FeJaSpCel2rs3vq8CEKp3Yt/view?usp=sharing" target="_blank" rel="noopener noreferrer">PodCast do Bloco | A razão estoica entre destino e liberdade</a>
+
+
+## 6.3. BLOCO III: ESTOICISMO - A MAESTRIA ESTOICA - EPICTETO E A ARTE DA LIBERDADE
+ARQUIVOS FONTE DO BLOCO: "aldodinucci,+Introdução_ao_Manual_de_Epicteto.pdf", "dinucci_a._-_amizade_e_coragem_em_epicteto.pdf" e "dinucci_a._-_cinco_diatribes_de_epicteto_sobre_razao_e_loucura.pdf"
+
+![Estoisismo](https://raw.githubusercontent.com/brmarmello/NotebookLM_Power-01/refs/heads/main/A%20Maestria%20Estoica%20-%20Epicteto%20e%20a%20Arte%20da%20Liberdade.png)
+👆👆👆 Imagem gerada neste projeto na funcionalidade "Infográficos" na configuração paisagem + Português (Brasil) + Seleção Automática + Padrão + PROMPT: "Monte um plano de estudos de 7 dias sobre estoicismo usando apenas as fontes carregadas. Divida por dia, tema, leitura recomendada, pergunta de reflexão e exercício prático.". 
+- <a href="https://drive.google.com/file/d/1-X6I8K8cXgdrsR8TaXc9jrLj3JiMZQHT/view?usp=sharing" target="_blank" rel="noopener noreferrer">Plano de Estudo Progressivo do Bloco | O Manual da Vida - 7 dias com Epicteto</a>
+- <a href="https://drive.google.com/file/d/1UMwa2ppHCxkelPs3IcjZ4jn0oKPjt4TS/view?usp=sharing" target="_blank" rel="noopener noreferrer">Vídeo do Bloco | O Ápice do Estoicismo</a>
+- <a href="https://drive.google.com/file/d/113vQbgagB9mVwVsmD5yro0GK8Txeqw2P/view?usp=sharing" target="_blank" rel="noopener noreferrer">PodCast do Bloco | A Mente Inabalável do Escravo Epicteto</a>
 
 
 ---
